@@ -1,0 +1,11 @@
+D:\projects\Second\Second\Second\bin\Debug\Second.exe.config
+D:\projects\Second\Second\Second\bin\Debug\Second.exe
+D:\projects\Second\Second\Second\bin\Debug\Second.pdb
+D:\projects\Second\Second\Second\obj\Debug\Second.csproj.AssemblyReference.cache
+D:\projects\Second\Second\Second\obj\Debug\Second.csproj.SuggestedBindingRedirects.cache
+D:\projects\Second\Second\Second\obj\Debug\Second.Form1.resources
+D:\projects\Second\Second\Second\obj\Debug\Second.Properties.Resources.resources
+D:\projects\Second\Second\Second\obj\Debug\Second.csproj.GenerateResource.cache
+D:\projects\Second\Second\Second\obj\Debug\Second.csproj.CoreCompileInputs.cache
+D:\projects\Second\Second\Second\obj\Debug\Second.exe
+D:\projects\Second\Second\Second\obj\Debug\Second.pdb
